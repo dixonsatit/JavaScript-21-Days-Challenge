@@ -26,7 +26,7 @@ JavaScript 21 Days Challenge เป็นคอร์สแนวเวิร์
 
 ในคอร์สนี้ผู้เรียนจะได้ทำ 21 โปรเจคที่ครอบคลุมเนื้อหาในหลากหลายด้านของภาษาจาวาสคริปต์ โดยโปรเจคทั้งหมดมีดังต่อไปนี้
 
-1. Falling Snow
+1. [Falling Snow](https://dixonsatit.github.io/JavaScript-21-Days-Challenge/01%20-%20Falling%20Snow/)
 1. Countdown Timer
 1. Async Await
 1. Eye Rolling
